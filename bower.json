@@ -1,0 +1,24 @@
+{
+  "name": "themes-cssberries",
+  "version":"0.0.1",
+  "homepage": "https://github.com/cssberries/themes-cssberries",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Materials system",
+  "main": "main.less",
+  "keywords": [
+    "css",
+    "BEM",
+    "ITCSS",
+    "OOCSS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
